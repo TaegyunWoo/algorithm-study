@@ -1,6 +1,5 @@
 import greedy.거스름돈;
 
-import java.io.InputStream;
 import java.util.Scanner;
 
 public class Main {
@@ -12,7 +11,7 @@ public class Main {
 
         TimeCheck.start();
 
-        int answer = 거스름돈.solution(input);
+        int answer = 거스름돈.solution2(input);
         System.out.println("answer = " + answer);
 
         TimeCheck.end();
