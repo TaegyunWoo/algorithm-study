@@ -165,6 +165,9 @@ build/
 *.lock
 *.bin
 
+.*
+!/.gitignore
+
 # Ignore Gradle GUI config
 gradle-app.setting
 
