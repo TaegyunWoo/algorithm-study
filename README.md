@@ -14,7 +14,12 @@
 - **큰 수의 법칙**
   - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/greedy/%ED%81%B0_%EC%88%98%EC%9D%98_%EB%B2%95%EC%B9%99.java)
   - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/greedy/%ED%81%B0_%EC%88%98%EC%9D%98_%EB%B2%95%EC%B9%99.md)
-  
+
+
+- **숫자 카드 게임**
+  - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/greedy/%EC%88%AB%EC%9E%90_%EC%B9%B4%EB%93%9C_%EA%B2%8C%EC%9E%84.java)
+  - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/greedy/%EC%88%AB%EC%9E%90_%EC%B9%B4%EB%93%9C_%EA%B2%8C%EC%9E%84.md)
+
 <hr/>
 <br/>
 
