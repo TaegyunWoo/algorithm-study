@@ -1,5 +1,6 @@
 import greedy.거스름돈;
 import greedy.숫자_카드_게임;
+import greedy.숫자가_1이_될_때까지;
 import greedy.큰_수의_법칙;
 
 import java.util.Scanner;
@@ -12,17 +13,9 @@ public class Main {
         System.out.println("Input");
 
         int n = scn.nextInt();
-        int m = scn.nextInt();
-
-        int[][] arr = new int[n][m];
+        int k = scn.nextInt();
 
         scn.nextLine();
-
-        for (int i = 0; i < n; i++) {
-            for (int u = 0; u < m; u++) {
-                arr[i][u] = scn.nextInt();
-            }
-        }
 
         //------------------------------------
 
@@ -31,7 +24,7 @@ public class Main {
 
         //--------- Solution 호출 ------------
 
-        int answer = 숫자_카드_게임.solution1(n, m, arr);
+        int answer = 숫자가_1이_될_때까지.solution1(n, k);
         System.out.println("answer = " + answer);
 
         //------------------------------------
