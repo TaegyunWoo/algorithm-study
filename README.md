@@ -20,6 +20,10 @@
   - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/greedy/%EC%88%AB%EC%9E%90_%EC%B9%B4%EB%93%9C_%EA%B2%8C%EC%9E%84.java)
   - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/greedy/%EC%88%AB%EC%9E%90_%EC%B9%B4%EB%93%9C_%EA%B2%8C%EC%9E%84.md)
 
+- **숫자가 1이 될 때까지**
+  - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/greedy/%EC%88%AB%EC%9E%90%EA%B0%80_1%EC%9D%B4_%EB%90%A0_%EB%95%8C%EA%B9%8C%EC%A7%80.java)
+  - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/greedy/%EC%88%AB%EC%9E%90%EA%B0%80_1%EC%9D%B4_%EB%90%A0_%EB%95%8C%EA%B9%8C%EC%A7%80.md)
+
 <hr/>
 <br/>
 
