@@ -37,6 +37,10 @@
   - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/implementation/%EC%8B%9C%EA%B0%81.java)
   - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/implementation/%EC%8B%9C%EA%B0%81.md)
 
+- **왕실의 나이트**
+  - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/implementation/%EC%99%95%EC%8B%A4%EC%9D%98_%EB%82%98%EC%9D%B4%ED%8A%B8.java)
+  - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/implementation/%EC%99%95%EC%8B%A4%EC%9D%98_%EB%82%98%EC%9D%B4%ED%8A%B8.md)
+
 <hr/>
 <br/>
 
