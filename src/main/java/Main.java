@@ -2,6 +2,7 @@ import greedy.거스름돈;
 import greedy.숫자_카드_게임;
 import greedy.숫자가_1이_될_때까지;
 import greedy.큰_수의_법칙;
+import implementation.게임_개발;
 import implementation.상하좌우;
 import implementation.시각;
 import implementation.왕실의_나이트;
@@ -15,19 +16,34 @@ public class Main {
 
         System.out.println("Input");
 
-        String[] s = scn.nextLine().split("");
+        int mapHieght = scn.nextInt();
+        int mapWidth = scn.nextInt();
 
-        int row = Integer.parseInt(s[1]);
-        char col = Character.valueOf(s[0].charAt(0));
+        int[][] map = new int[mapHieght][mapWidth];
+
+        scn.nextLine();
+
+        int positionA = scn.nextInt();
+        int positionB = scn.nextInt();
+        int lookingSide = scn.nextInt();
+
+        scn.nextLine();
+
+        for (int i = 0; i < mapHieght; i++) {
+            for (int u = 0; u < mapWidth; u++) {
+                map[i][u] = scn.nextInt();
+            }
+            scn.nextLine();
+        }
 
         //------------------------------------
 
         TimeCheck.start();
 
 
-        //--------- Solution 호출 ------------
+        //--------- Solution 호출 -----------
 
-        int answer = 왕실의_나이트.solution1(row, col);
+        int answer = 게임_개발.solution2(mapHieght, mapWidth, map, positionA, positionB, lookingSide);
         System.out.println("answer = " + answer);
 
         //------------------------------------
