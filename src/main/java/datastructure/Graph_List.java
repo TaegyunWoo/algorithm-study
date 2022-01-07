@@ -8,7 +8,7 @@ public class Graph_List {
   private static final int NODES_NUMBER = 3;
 
 
-  List<ArrayList<Node>> graph = new ArrayList<>();
+  ArrayList<ArrayList<Node>> graph = new ArrayList<>();
 
   /*
    * <인접행렬 방식으로 그래프 표현하기>
