@@ -177,7 +177,7 @@ public class Main {
  ![](./img/Untitle23.jpg)
  ![](./img/Untitle24.jpg)
 
-## 소스코드 - 인접배열
+## 소스코드 - 인접행렬
 ### DFS 알고리즘
 ```java
 public class DFS_MatrixGraph {
