@@ -50,6 +50,14 @@
 <br/>
 
 ### DFS/BFS
+- **인접행렬 그래프**
+  - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/datastructure/Graph_Matrix.java)
+- **인접리스트 그래프**
+  - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/datastructure/Graph_List.java)
+- **DFS (Depth First Search)**
+  - [소스코드: 인접행렬](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dfs_bfs/DFS_MatrixGraph.java)
+  - [**소스코드: 인접리스트**](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dfs_bfs/DFS_ListGraph.java)
+  - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/DFS_BFS/DFS.md)
 
 <hr/>
 <br/>
