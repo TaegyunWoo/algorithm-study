@@ -1,3 +1,6 @@
+import dfs_bfs.BFS_ListGraph;
+import dfs_bfs.BFS_MatrixGraph;
+import dfs_bfs.DFS_ListGraph;
 import dfs_bfs.DFS_MatrixGraph;
 
 public class Main {
@@ -12,7 +15,7 @@ public class Main {
 
         //--------- Solution 호출 -----------
 
-        DFS_MatrixGraph.execute();
+        BFS_MatrixGraph.execute();
 
         //---------- Solution 호출 끝 -------------
 
