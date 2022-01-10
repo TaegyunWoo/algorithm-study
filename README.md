@@ -62,6 +62,10 @@
   - [소스코드: 인접행렬](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dfs_bfs/BFS_MatrixGraph.java)
   - [**소스코드: 인접리스트**](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dfs_bfs/BFS_ListGraph.java)
   - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/DFS_BFS/BFS.md)
+- **음료수 얼려먹기**
+  - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dfs_bfs/%EC%9D%8C%EB%A3%8C%EC%88%98_%EC%96%BC%EB%A0%A4%EB%A8%B9%EA%B8%B0.java)
+  - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/DFS_BFS/%EC%9D%8C%EB%A3%8C%EC%88%98_%EC%96%BC%EB%A0%A4%EB%A8%B9%EA%B8%B0.md)
+
 
 <hr/>
 <br/>
