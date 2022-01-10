@@ -65,7 +65,9 @@
 - **음료수 얼려먹기**
   - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dfs_bfs/%EC%9D%8C%EB%A3%8C%EC%88%98_%EC%96%BC%EB%A0%A4%EB%A8%B9%EA%B8%B0.java)
   - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/DFS_BFS/%EC%9D%8C%EB%A3%8C%EC%88%98_%EC%96%BC%EB%A0%A4%EB%A8%B9%EA%B8%B0.md)
-
+- **미로 탈출**
+  - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dfs_bfs/%EB%AF%B8%EB%A1%9C_%ED%83%88%EC%B6%9C.java)
+  - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/DFS_BFS/%EB%AF%B8%EB%A1%9C_%ED%83%88%EC%B6%9C.md)
 
 <hr/>
 <br/>
