@@ -1,21 +1,17 @@
-import dfs_bfs.BFS_ListGraph;
-import dfs_bfs.BFS_MatrixGraph;
-import dfs_bfs.DFS_ListGraph;
-import dfs_bfs.DFS_MatrixGraph;
+import dfs_bfs.*;
+
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        //--------- 입력 로직 ------------
-
-
-        //---------- 입력 로직 끝 -----------------
 
         TimeCheck.start();
 
 
         //--------- Solution 호출 -----------
 
-        BFS_MatrixGraph.execute();
+        int answer = 음료수_얼려먹기.execute();
+        System.out.println("answer = " + answer);
 
         //---------- Solution 호출 끝 -------------
 
