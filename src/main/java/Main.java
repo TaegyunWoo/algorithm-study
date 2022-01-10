@@ -1,4 +1,5 @@
 import dfs_bfs.*;
+import time.TimeCheck;
 
 import java.util.Scanner;
 
@@ -10,7 +11,7 @@ public class Main {
 
         //--------- Solution 호출 -----------
 
-        int answer = 음료수_얼려먹기.execute();
+        int answer = 미로_탈출.execute();
         System.out.println("answer = " + answer);
 
         //---------- Solution 호출 끝 -------------
