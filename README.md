@@ -73,6 +73,9 @@
 <br/>
 
 ### 정렬
+- **선택 정렬**
+  - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/sort/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.java)
+  - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/sort/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.md)
 
 <hr/>
 <br/>
