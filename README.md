@@ -50,41 +50,48 @@
 <br/>
 
 ### DFS/BFS
-- **인접행렬 그래프**
-  - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/datastructure/Graph_Matrix.java)
-- **인접리스트 그래프**
-  - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/datastructure/Graph_List.java)
-- **DFS (Depth First Search)**
-  - [소스코드: 인접행렬](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dfs_bfs/DFS_MatrixGraph.java)
-  - [**소스코드: 인접리스트**](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dfs_bfs/DFS_ListGraph.java)
-  - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/DFS_BFS/DFS.md)
-- **BFS (Breadth First Search)**
-  - [소스코드: 인접행렬](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dfs_bfs/BFS_MatrixGraph.java)
-  - [**소스코드: 인접리스트**](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dfs_bfs/BFS_ListGraph.java)
-  - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/DFS_BFS/BFS.md)
-- **음료수 얼려먹기**
-  - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dfs_bfs/%EC%9D%8C%EB%A3%8C%EC%88%98_%EC%96%BC%EB%A0%A4%EB%A8%B9%EA%B8%B0.java)
-  - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/DFS_BFS/%EC%9D%8C%EB%A3%8C%EC%88%98_%EC%96%BC%EB%A0%A4%EB%A8%B9%EA%B8%B0.md)
-- **미로 탈출**
-  - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dfs_bfs/%EB%AF%B8%EB%A1%9C_%ED%83%88%EC%B6%9C.java)
-  - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/DFS_BFS/%EB%AF%B8%EB%A1%9C_%ED%83%88%EC%B6%9C.md)
+- Basic
+  - **인접행렬 그래프**
+    - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/datastructure/Graph_Matrix.java)
+  - **인접리스트 그래프**
+    - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/datastructure/Graph_List.java)
+- Problems
+  - **DFS (Depth First Search)**
+    - [소스코드: 인접행렬](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dfs_bfs/DFS_MatrixGraph.java)
+    - [**소스코드: 인접리스트**](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dfs_bfs/DFS_ListGraph.java)
+    - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/DFS_BFS/DFS.md)
+  - **BFS (Breadth First Search)**
+    - [소스코드: 인접행렬](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dfs_bfs/BFS_MatrixGraph.java)
+    - [**소스코드: 인접리스트**](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dfs_bfs/BFS_ListGraph.java)
+    - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/DFS_BFS/BFS.md)
+  - **음료수 얼려먹기**
+    - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dfs_bfs/%EC%9D%8C%EB%A3%8C%EC%88%98_%EC%96%BC%EB%A0%A4%EB%A8%B9%EA%B8%B0.java)
+    - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/DFS_BFS/%EC%9D%8C%EB%A3%8C%EC%88%98_%EC%96%BC%EB%A0%A4%EB%A8%B9%EA%B8%B0.md)
+  - **미로 탈출**
+    - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dfs_bfs/%EB%AF%B8%EB%A1%9C_%ED%83%88%EC%B6%9C.java)
+    - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/DFS_BFS/%EB%AF%B8%EB%A1%9C_%ED%83%88%EC%B6%9C.md)
 
 <hr/>
 <br/>
 
 ### 정렬
-- **선택 정렬**
-  - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/sort/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.java)
-  - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/sort/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.md)
-- **삽입 정렬**
-  - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/sort/%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.java)
-  - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/sort/%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.md)
-- **퀵 정렬**
-  - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/sort/%ED%80%B5%EC%A0%95%EB%A0%AC.java)
-  - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/sort/%ED%80%B5%EC%A0%95%EB%A0%AC.md)
-- **계수 정렬**
-  - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/sort/%EA%B3%84%EC%88%98%EC%A0%95%EB%A0%AC.java)
-  - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/sort/%EA%B3%84%EC%88%98%EC%A0%95%EB%A0%AC.md)
+- Basic
+  - **선택 정렬**
+    - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/sort/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.java)
+    - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/sort/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.md)
+  - **삽입 정렬**
+    - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/sort/%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.java)
+    - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/sort/%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.md)
+  - **퀵 정렬**
+    - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/sort/%ED%80%B5%EC%A0%95%EB%A0%AC.java)
+    - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/sort/%ED%80%B5%EC%A0%95%EB%A0%AC.md)
+  - **계수 정렬**
+    - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/sort/%EA%B3%84%EC%88%98%EC%A0%95%EB%A0%AC.java)
+    - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/sort/%EA%B3%84%EC%88%98%EC%A0%95%EB%A0%AC.md)
+- Problems
+  - **위에서 아래로**
+    - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/sort/%EA%B3%84%EC%88%98%EC%A0%95%EB%A0%AC.java)
+    - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/sort/%EA%B3%84%EC%88%98%EC%A0%95%EB%A0%AC.md)
 
 <hr/>
 <br/>
