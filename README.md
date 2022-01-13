@@ -82,6 +82,9 @@
 - **퀵 정렬**
   - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/sort/%ED%80%B5%EC%A0%95%EB%A0%AC.java)
   - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/sort/%ED%80%B5%EC%A0%95%EB%A0%AC.md)
+- **계수 정렬**
+  - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/sort/%EA%B3%84%EC%88%98%EC%A0%95%EB%A0%AC.java)
+  - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/sort/%EA%B3%84%EC%88%98%EC%A0%95%EB%A0%AC.md)
 
 <hr/>
 <br/>
