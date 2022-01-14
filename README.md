@@ -95,6 +95,9 @@
   - **성적이 낮은 순서로 학생 출력하기**
     - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/sort/%EC%84%B1%EC%A0%81%EC%9D%B4_%EB%82%AE%EC%9D%80_%EC%88%9C%EC%84%9C%EB%A1%9C_%ED%95%99%EC%83%9D_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.java)
     - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/sort/%EC%84%B1%EC%A0%81%EC%9D%B4_%EB%82%AE%EC%9D%80_%EC%88%9C%EC%84%9C%EB%A1%9C_%ED%95%99%EC%83%9D_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.md)
+  - **두 배열의 원소 교체**
+    - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/sort/%EB%91%90_%EB%B0%B0%EC%97%B4%EC%9D%98_%EC%9B%90%EC%86%8C_%EA%B5%90%EC%B2%B4.java)
+    - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/sort/%EB%91%90_%EB%B0%B0%EC%97%B4%EC%9D%98_%EC%9B%90%EC%86%8C_%EA%B5%90%EC%B2%B4.md)
 
 <hr/>
 <br/>
