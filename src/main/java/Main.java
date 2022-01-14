@@ -1,3 +1,4 @@
+import binarysearch.부품_찾기;
 import binarysearch.이진탐색_반복문;
 import binarysearch.이진탐색_재귀;
 import dfs_bfs.*;
@@ -7,9 +8,9 @@ import time.TimeCheck;
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] ags) {
+    public static void main(String[] ags) throws Exception {
 
-       이진탐색_반복문.execute();
+       부품_찾기.execute();
 
     }
 }
