@@ -112,6 +112,9 @@
   - **부품 찾기**
     - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/binarysearch/%EB%B6%80%ED%92%88_%EC%B0%BE%EA%B8%B0.java)
     - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/binarysearch/%EB%B6%80%ED%92%88_%EC%B0%BE%EA%B8%B0.md)
+  - **떡볶이 떡 만들기**
+    - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/binarysearch/떡볶이_떡_만들기.java)
+    - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/binarysearch/떡볶이_떡_만들기.md)
 
 <hr/>
 <br/>
