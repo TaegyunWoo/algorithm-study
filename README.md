@@ -124,6 +124,10 @@
   - **다이나믹 프로그래밍**
     - [소스코드 - 피보나치](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dp/피보나치.java)
     - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/dp/다이나믹_프로그래밍.md)
+- Problems
+  - **1로 만들기**
+    - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dp/만들기_1로.java)
+    - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/dp/1로_만들기.md)
 
 <hr/>
 <br/>
