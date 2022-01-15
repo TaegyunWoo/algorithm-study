@@ -128,6 +128,9 @@
   - **1로 만들기**
     - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dp/만들기_1로.java)
     - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/dp/1로_만들기.md)
+  - **개미전사**
+    - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dp/개미전사.java)
+    - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/dp/개미전사.md)
 
 <hr/>
 <br/>
