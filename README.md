@@ -142,6 +142,10 @@
 <br/>
 
 ### 최단 경로
+- Basic
+  - **다익스트라 알고리즘 - 기본**
+    - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/shortestpath/다익스트라_기본.java)
+    - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/shortestpath/다익스트라_기본.md)
 
 <hr/>
 <br/>
