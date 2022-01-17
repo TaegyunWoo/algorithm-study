@@ -134,6 +134,9 @@
   - **바닥 공사**
     - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dp/바닥_공사.java)
     - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/dp/바닥_공사.md)
+  - **효율적인 화폐 구성**
+    - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/dp/효율적인_화폐_구성.java)
+    - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/dp/효율적인_화폐_구성.md)
 
 <hr/>
 <br/>
