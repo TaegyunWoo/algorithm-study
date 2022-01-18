@@ -35,8 +35,8 @@ public class 다익스트라_기본 {
       st = new StringTokenizer(s);
       int fromNode = Integer.parseInt(st.nextToken());
       int toNode = Integer.parseInt(st.nextToken());
-      int weight = Integer.parseInt(st.nextToken());
-      graph.get(fromNode).add(new Node(toNode, weight));
+      int distance = Integer.parseInt(st.nextToken());
+      graph.get(fromNode).add(new Node(toNode, distance));
     }
 
     solution();
