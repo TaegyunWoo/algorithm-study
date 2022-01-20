@@ -6,6 +6,7 @@ import dfs_bfs.*;
 import dp.*;
 import shortestpath.다익스트라_개선;
 import shortestpath.다익스트라_기본;
+import shortestpath.플로이드_워셜;
 import sort.*;
 import time.TimeCheck;
 
@@ -14,7 +15,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] ags) throws Exception {
 
-       다익스트라_개선.execute();
+       플로이드_워셜.execute();
 
     }
 }
