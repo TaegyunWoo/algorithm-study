@@ -152,6 +152,10 @@
   - **플로이드 워셜 알고리즘**
     - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/shortestpath/플로이드_워셜.java)
     - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/shortestpath/플로이드_워셜.md)
+- Problems
+  - **미래도시**
+    - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/shortestpath/미래도시.java)
+    - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/shortestpath/미래도시.md)
 
 <hr/>
 <br/>
