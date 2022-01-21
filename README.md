@@ -156,6 +156,9 @@
   - **미래도시**
     - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/shortestpath/미래도시.java)
     - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/shortestpath/미래도시.md)
+  - **전보**
+    - [소스코드](https://github.com/TaegyunWoo/algorithm-study/blob/main/src/main/java/shortestpath/전보.java)
+    - [Document](https://github.com/TaegyunWoo/algorithm-study/blob/main/doc/shortestpath/전보.md)
 
 <hr/>
 <br/>
