@@ -1,19 +1,22 @@
-import binarysearch.떡볶이_떡_만들기;
-import binarysearch.부품_찾기;
-import binarysearch.이진탐색_반복문;
-import binarysearch.이진탐색_재귀;
-import dfs_bfs.*;
-import dp.*;
-import shortestpath.*;
-import sort.*;
-import time.TimeCheck;
+import combination.조합_경우의_수;
 
-import java.util.Scanner;
+import java.io.*;
+import java.util.*;
+
+/*
+ * [해결 Point]
+ *
+ */
 
 public class Main {
-    public static void main(String[] ags) throws Exception {
 
-       전보.execute();
 
-    }
+
+  public static void main(String[] ags) throws Exception {
+    조합_경우의_수 s = new 조합_경우의_수();
+    int answer = s.getCombinationCaseNum(3, 2);
+    System.out.println(answer);
+
+  }
+
 }
