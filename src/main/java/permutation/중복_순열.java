@@ -6,7 +6,7 @@ public class 중복_순열 {
   static int[] result = new int[3];
 
   //3개의 원소 중, 순서를 고려하지 않고 중복해서 3개를 뽑기
-  public static void combination(int depth, int r) { //n은 필요없다.
+  public static void permutation(int depth, int r) { //n은 필요없다.
     if (r == 0) { //3개를 모두 뽑았다면
       printResult();
       return;
@@ -17,7 +17,7 @@ public class 중복_순열 {
 
       //중복 가능하므로, visited에 기록할 필요가 없다.
 
-      combination(depth + 1, r - 1);
+      permutation(depth + 1, r - 1);
     }
   }
 
