@@ -1,6 +1,6 @@
-package combination;
+package permutation;
 
-public class 중복_조합 {
+public class 중복_순열 {
   static int[] numbers = new int[] {1, 2, 3};
   static int r = 3;
   static int[] result = new int[3];
