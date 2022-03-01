@@ -1,19 +1,13 @@
-import permutation.순열;
+import combination.중복_조합;
 
-import java.io.*;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.StringTokenizer;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.*;
 
 public class Main {
 
-  static int n;
-  static int m;
-  static Integer[] ableButton = new Integer[10];
-  static int answer = 0;
-
-  public static void main(String[] ags) throws Exception {
-    순열.permutation(0);
+  public static void main(String[] args) throws Exception {
+    중복_조합.combination(0, 3);
   }
 
 }
