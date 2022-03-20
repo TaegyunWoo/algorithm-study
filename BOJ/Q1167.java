@@ -18,7 +18,7 @@ import java.util.*;
  * - 임의의 한 노드로부터 가장 거리가 먼 노드를 선택한다면, 선택된 노드는 '지름을 이루는 경로의 양끝 노드 중 하나'이다.
  * - 그렇기 때문에, 그 노드로부터 다시 가장 거리가 먼 노드를 선택한다면 지름을 구할 수 있다.
  */
-public class Main {
+public class Q1167 {
 
   static int n;
   static List<List<Node>> graph = new ArrayList<>();
