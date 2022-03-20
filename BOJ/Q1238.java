@@ -18,7 +18,7 @@ import java.util.*;
  *   'a마을 학생이 오고가며 걸린 총 시간', 'b마을 학생이 오고가며 걸린 총 시간', ...
  *   을 '위에서 만든 총 2개의 최단거리 테이블'로 구할 수 있다.
  */
-public class Main {
+public class Q1238 {
 
   static int n;
   static int m;
